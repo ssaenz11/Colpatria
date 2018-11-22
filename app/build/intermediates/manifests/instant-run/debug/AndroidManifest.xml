@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.nvisium.tapjacking"
+    android:versionCode="2"
+    android:versionName="2.0" >
+
+    <uses-sdk
+        android:minSdkVersion="7"
+        android:targetSdkVersion="7" />
+
+    <application
+        android:debuggable="true"
+        android:icon="@drawable/n"
+        android:label="@string/app_name"
+        android:testOnly="true" >
+        <activity
+            android:name="com.nvisium.tapjacking.Main"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <service android:name="com.nvisium.tapjacking.DialerService" >
+            <intent-filter>
+                <action android:name="com.nvisium.tapjacking.DialerService" />
+            </intent-filter>
+        </service>
+        <service android:name="com.nvisium.tapjacking.BackgroundInstallerService" >
+            <intent-filter>
+                <action android:name="com.nvisium.tapjacking.BackgroundInstallerService" />
+            </intent-filter>
+        </service>
+
+        <provider
+            android:name="com.android.tools.ir.server.InstantRunContentProvider"
+            android:authorities="com.nvisium.tapjacking.com.android.tools.ir.server.InstantRunContentProvider"
+            android:multiprocess="true" />
+    </application>
+
+</manifest>

@@ -1,0 +1,79 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Santiago/Downloads/TapJacking-Demo-master1/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/Santiago/Downloads/TapJacking-Demo-master1/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/Santiago/Downloads/TapJacking-Demo-master1/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/Santiago/Downloads/TapJacking-Demo-master1/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/Santiago/Downloads/TapJacking-Demo-master1/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/Santiago/Downloads/TapJacking-Demo-master1/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/Santiago/Downloads/TapJacking-Demo-master1/app/src/main/AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from /Users/Santiago/Downloads/TapJacking-Demo-master1/app/src/main/AndroidManifest.xml:3:2-34
+		INJECTED from /Users/Santiago/Downloads/TapJacking-Demo-master1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Santiago/Downloads/TapJacking-Demo-master1/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/Santiago/Downloads/TapJacking-Demo-master1/app/src/main/AndroidManifest.xml:4:2-27
+		INJECTED from /Users/Santiago/Downloads/TapJacking-Demo-master1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Santiago/Downloads/TapJacking-Demo-master1/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Santiago/Downloads/TapJacking-Demo-master1/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/Santiago/Downloads/TapJacking-Demo-master1/app/src/main/AndroidManifest.xml:3:35-58
+		INJECTED from /Users/Santiago/Downloads/TapJacking-Demo-master1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Santiago/Downloads/TapJacking-Demo-master1/app/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/Santiago/Downloads/TapJacking-Demo-master1/app/src/main/AndroidManifest.xml:5:2-40
+INJECTED from /Users/Santiago/Downloads/TapJacking-Demo-master1/app/src/main/AndroidManifest.xml:5:2-40
+INJECTED from /Users/Santiago/Downloads/TapJacking-Demo-master1/app/src/main/AndroidManifest.xml:5:2-40
+INJECTED from /Users/Santiago/Downloads/TapJacking-Demo-master1/app/src/main/AndroidManifest.xml:5:2-40
+INJECTED from /Users/Santiago/Downloads/TapJacking-Demo-master1/app/src/main/AndroidManifest.xml:5:2-40
+	android:targetSdkVersion
+		INJECTED from /Users/Santiago/Downloads/TapJacking-Demo-master1/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Santiago/Downloads/TapJacking-Demo-master1/app/src/main/AndroidManifest.xml:5:2-40
+		INJECTED from /Users/Santiago/Downloads/TapJacking-Demo-master1/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/Santiago/Downloads/TapJacking-Demo-master1/app/src/main/AndroidManifest.xml:5:12-37
+		INJECTED from /Users/Santiago/Downloads/TapJacking-Demo-master1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Santiago/Downloads/TapJacking-Demo-master1/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/Santiago/Downloads/TapJacking-Demo-master1/app/src/main/AndroidManifest.xml:7:2-24:16
+	android:label
+		ADDED from /Users/Santiago/Downloads/TapJacking-Demo-master1/app/src/main/AndroidManifest.xml:7:42-74
+	android:icon
+		ADDED from /Users/Santiago/Downloads/TapJacking-Demo-master1/app/src/main/AndroidManifest.xml:7:15-41
+activity#com.nvisium.tapjacking.Main
+ADDED from /Users/Santiago/Downloads/TapJacking-Demo-master1/app/src/main/AndroidManifest.xml:8:3-13:14
+	android:label
+		ADDED from /Users/Santiago/Downloads/TapJacking-Demo-master1/app/src/main/AndroidManifest.xml:8:34-66
+	android:name
+		ADDED from /Users/Santiago/Downloads/TapJacking-Demo-master1/app/src/main/AndroidManifest.xml:8:13-33
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/Santiago/Downloads/TapJacking-Demo-master1/app/src/main/AndroidManifest.xml:9:4-12:20
+action#android.intent.action.MAIN
+ADDED from /Users/Santiago/Downloads/TapJacking-Demo-master1/app/src/main/AndroidManifest.xml:10:5-57
+	android:name
+		ADDED from /Users/Santiago/Downloads/TapJacking-Demo-master1/app/src/main/AndroidManifest.xml:10:13-54
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Santiago/Downloads/TapJacking-Demo-master1/app/src/main/AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from /Users/Santiago/Downloads/TapJacking-Demo-master1/app/src/main/AndroidManifest.xml:11:15-62
+service#com.nvisium.tapjacking.DialerService
+ADDED from /Users/Santiago/Downloads/TapJacking-Demo-master1/app/src/main/AndroidManifest.xml:14:3-18:13
+	android:name
+		ADDED from /Users/Santiago/Downloads/TapJacking-Demo-master1/app/src/main/AndroidManifest.xml:14:12-41
+intent-filter#action:name:com.nvisium.tapjacking.DialerService
+ADDED from /Users/Santiago/Downloads/TapJacking-Demo-master1/app/src/main/AndroidManifest.xml:15:4-17:20
+action#com.nvisium.tapjacking.DialerService
+ADDED from /Users/Santiago/Downloads/TapJacking-Demo-master1/app/src/main/AndroidManifest.xml:16:5-67
+	android:name
+		ADDED from /Users/Santiago/Downloads/TapJacking-Demo-master1/app/src/main/AndroidManifest.xml:16:13-64
+service#com.nvisium.tapjacking.BackgroundInstallerService
+ADDED from /Users/Santiago/Downloads/TapJacking-Demo-master1/app/src/main/AndroidManifest.xml:19:3-23:13
+	android:name
+		ADDED from /Users/Santiago/Downloads/TapJacking-Demo-master1/app/src/main/AndroidManifest.xml:19:12-54
+intent-filter#action:name:com.nvisium.tapjacking.BackgroundInstallerService
+ADDED from /Users/Santiago/Downloads/TapJacking-Demo-master1/app/src/main/AndroidManifest.xml:20:4-22:20
+action#com.nvisium.tapjacking.BackgroundInstallerService
+ADDED from /Users/Santiago/Downloads/TapJacking-Demo-master1/app/src/main/AndroidManifest.xml:21:5-80
+	android:name
+		ADDED from /Users/Santiago/Downloads/TapJacking-Demo-master1/app/src/main/AndroidManifest.xml:21:13-77

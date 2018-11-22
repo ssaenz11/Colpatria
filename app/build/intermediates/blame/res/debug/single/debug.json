@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/Santiago/Downloads/TapJacking-Demo-master1/app/build/intermediates/res/merged/debug/drawable-hdpi_n.jpg.flat",
+        "source": "/Users/Santiago/Downloads/TapJacking-Demo-master1/app/src/main/res/drawable-hdpi/n.jpg"
+    },
+    {
+        "merged": "/Users/Santiago/Downloads/TapJacking-Demo-master1/app/build/intermediates/res/merged/debug/drawable-mdpi_n.jpg.flat",
+        "source": "/Users/Santiago/Downloads/TapJacking-Demo-master1/app/src/main/res/drawable-mdpi/n.jpg"
+    },
+    {
+        "merged": "/Users/Santiago/Downloads/TapJacking-Demo-master1/app/build/intermediates/res/merged/debug/drawable-hdpi_blob.jpg.flat",
+        "source": "/Users/Santiago/Downloads/TapJacking-Demo-master1/app/src/main/res/drawable-hdpi/blob.jpg"
+    },
+    {
+        "merged": "/Users/Santiago/Downloads/TapJacking-Demo-master1/app/build/intermediates/res/merged/debug/drawable-hdpi_cowbell.png.flat",
+        "source": "/Users/Santiago/Downloads/TapJacking-Demo-master1/app/src/main/res/drawable-hdpi/cowbell.png"
+    },
+    {
+        "merged": "/Users/Santiago/Downloads/TapJacking-Demo-master1/app/build/intermediates/res/merged/debug/drawable-hdpi_logo.png.flat",
+        "source": "/Users/Santiago/Downloads/TapJacking-Demo-master1/app/src/main/res/drawable-hdpi/logo.png"
+    },
+    {
+        "merged": "/Users/Santiago/Downloads/TapJacking-Demo-master1/app/build/intermediates/res/merged/debug/layout_dialer_layout.xml.flat",
+        "source": "/Users/Santiago/Downloads/TapJacking-Demo-master1/app/src/main/res/layout/dialer_layout.xml"
+    },
+    {
+        "merged": "/Users/Santiago/Downloads/TapJacking-Demo-master1/app/build/intermediates/res/merged/debug/drawable-ldpi_icon.png.flat",
+        "source": "/Users/Santiago/Downloads/TapJacking-Demo-master1/app/src/main/res/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "/Users/Santiago/Downloads/TapJacking-Demo-master1/app/build/intermediates/res/merged/debug/drawable-ldpi_n.jpg.flat",
+        "source": "/Users/Santiago/Downloads/TapJacking-Demo-master1/app/src/main/res/drawable-ldpi/n.jpg"
+    },
+    {
+        "merged": "/Users/Santiago/Downloads/TapJacking-Demo-master1/app/build/intermediates/res/merged/debug/layout_installer_layout.xml.flat",
+        "source": "/Users/Santiago/Downloads/TapJacking-Demo-master1/app/src/main/res/layout/installer_layout.xml"
+    },
+    {
+        "merged": "/Users/Santiago/Downloads/TapJacking-Demo-master1/app/build/intermediates/res/merged/debug/drawable-hdpi_icon.png.flat",
+        "source": "/Users/Santiago/Downloads/TapJacking-Demo-master1/app/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/Users/Santiago/Downloads/TapJacking-Demo-master1/app/build/intermediates/res/merged/debug/drawable-mdpi_icon.png.flat",
+        "source": "/Users/Santiago/Downloads/TapJacking-Demo-master1/app/src/main/res/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "/Users/Santiago/Downloads/TapJacking-Demo-master1/app/build/intermediates/res/merged/debug/layout_main.xml.flat",
+        "source": "/Users/Santiago/Downloads/TapJacking-Demo-master1/app/src/main/res/layout/main.xml"
+    }
+]

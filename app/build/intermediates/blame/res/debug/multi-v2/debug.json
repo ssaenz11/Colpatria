@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/Santiago/Downloads/TapJacking-Demo-master1/app/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/Santiago/Downloads/TapJacking-Demo-master1/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "5,9,2,4,3,7",
+                        "startColumns": "1,1,1,1,1,1",
+                        "startOffsets": "210,434,52,148,102,322",
+                        "endLines": "6,12,2,4,3,8",
+                        "endColumns": "33,26,49,61,45,32",
+                        "endOffsets": "320,682,100,208,146,432"
+                    },
+                    "to": {
+                        "startLines": "2,4,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,170,423,476,541,590",
+                        "endLines": "3,7,8,9,10,12",
+                        "endColumns": "33,26,52,64,48,32",
+                        "endOffsets": "165,418,471,536,585,700"
+                    }
+                }
+            ]
+        }
+    ]
+}
